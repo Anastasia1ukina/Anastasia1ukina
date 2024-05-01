@@ -1,7 +1,8 @@
 ### ![Hi, I'm Nastya](./greeting.svg)
+
 I'm 21 years old developer responsible for creating the user interface of websites and applications.
 
-- Check out my [website](https://www.miraya.tech/) to learn more about me.
+- Check out my [website](#) to learn more about me.
 - Check out my [codewars](https://www.codewars.com/users/Anastasia1ukina) to see my progress.
 
 ## 📦 Toolbox
@@ -23,8 +24,8 @@ I'm 21 years old developer responsible for creating the user interface of websit
 
 - 😇 Attack on titan is my favorite anime.
 - 🚗 I passed my driving exam on the fifth attempt.
-- :jp: I really want to visit Japan.
+- 🏯 I really want to visit Japan.
 
-  ## 📫 Contact
+## 📫 Contact
 
-For a quick response, write to me in [Telegram](@NastyaLukinaa) or [Email](lukina02anastasiy@gmail.com).
+For a quick response, write to me in Telegram (@NastyaLukinaa) or Email (lukina02anastasiy@gmail.com).
