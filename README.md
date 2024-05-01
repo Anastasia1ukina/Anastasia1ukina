@@ -15,16 +15,16 @@ I'm 21 years old developer responsible for creating the user interface of websit
 
 ## ⚡ Some Facts 
 
-- 🎓 I successfully completed the intensive course at Sberbank School 21 and got into main education.
-- 🍰 My hobby is making cakes and cupcakes.
-- 🚴 I love active recreation (cycling, rides, walks, swimming, etc.).
-- 🏀 Graduated from a sports school in basketball.
+🎓 I successfully completed the intensive course at Sberbank School 21 and got into main education.
+🍰 My hobby is making cakes and cupcakes.
+🚴 I love active recreation (cycling, rides, walks, swimming, etc.).
+🏀 Graduated from a sports school in basketball.
 
 ## ✨ Some Fun Facts 
 
-- 😇 Attack on titan is my favorite anime.
-- 🚗 I passed my driving exam on the fifth attempt.
-- 🏯 I really want to visit Japan.
+😇 Attack on titan is my favorite anime.
+🚗 I passed my driving exam on the fifth attempt.
+🏯 I really want to visit Japan.
 
 ## 📫 Contact
 
