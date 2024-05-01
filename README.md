@@ -1,16 +1,30 @@
-### Hi there 👋
+### ![Hi, I'm Nastya](./greeting.svg)
+I'm 21 years old developer responsible for creating the user interface of websites and applications.
 
-<!--
-**Anastasia1ukina/Anastasia1ukina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Check out my [website](https://www.miraya.tech/) to learn more about me.
+- Check out my [codewars](https://www.codewars.com/users/Anastasia1ukina) to see my progress.
 
-Here are some ideas to get you started:
+## 📦 Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend Development:** `React` `Material-UI`
+ 
+**Version Control:** `Git` `GitLab`
+
+**Backend Development:** `Firebase` 
+
+## ⚡ Some Facts 
+
+- 🎓 I successfully completed the intensive course at Sberbank School 21 and got into main education.
+- 🍰 My hobby is making cakes and cupcakes.
+- 🚴 I love active recreation (cycling, rides, walks, swimming, etc.).
+- 🏀 Graduated from a sports school in basketball.
+
+## ✨ Some Fun Facts 
+
+- 😇 Attack on titan is my favorite anime.
+- 🚗 I passed my driving exam on the fifth attempt.
+- :jp: I really want to visit Japan.
+
+  ## 📫 Contact
+
+For a quick response, write to me in [Telegram](@NastyaLukinaa) or [Email](lukina02anastasiy@gmail.com).
