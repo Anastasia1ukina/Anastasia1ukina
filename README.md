@@ -1,4 +1,4 @@
-### ![Hi, I'm Nastya](./greeting.svg)
+### ![Hi, I'm Nastya](./hi.svg)
 
 I'm 21 years old developer responsible for creating the user interface of websites and applications.
 
