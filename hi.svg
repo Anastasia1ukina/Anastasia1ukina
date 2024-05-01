@@ -1,0 +1,18 @@
+<svg width="200" height="25" viewBox="0 0 200 25" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gaming" spreadMethod="repeat">
+      <animate attributeName="x1" values="0%;100%" dur="0.5s" repeatCount="indefinite"></animate>
+      <animate attributeName="x2" values="100%;200%" dur="0.5s" repeatCount="indefinite"></animate>
+      <stop stop-color="#ba66ff" offset="0"></stop>
+      <stop stop-color="#c177ff" offset="0.1666"></stop>
+      <stop stop-color="#a539ff" offset="0.3333"></stop>
+      <stop stop-color="#a436ff" offset="0.5"></stop>
+      <stop stop-color="#8100ed" offset="0.6666"></stop>
+      <stop stop-color="#7100cf" offset="0.8333"></stop>
+      <stop stop-color="#8b00ff" offset="1"></stop>
+    </linearGradient>
+  </defs>
+  <text fill="url(#gaming)" x="0" y="20" font-weight="600" font-size="20" font-family="sans-serif">
+    Hi, I'm Nastya 👋🏻
+  </text>
+</svg>
