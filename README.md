@@ -7,7 +7,7 @@ I'm 21 years old developer responsible for creating the user interface of websit
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Material-UI`
+**Frontend Development:** `HTML` `CSS` `JS` `Sass` `React` `Material-UI`
  
 **Version Control:** `Git` `GitLab`
 
