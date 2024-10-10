@@ -2,7 +2,7 @@
 
 I'm 21 years old developer responsible for creating the user interface of websites and applications.
 
-- Check out my [website](#) to learn more about me.
+- Check out my [website](https://anastasia1ukina.github.io/resume-exam/) to learn more about me.
 - Check out my [codewars](https://www.codewars.com/users/Anastasia1ukina) to see my progress.
 
 ## 📦 Toolbox
